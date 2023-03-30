@@ -1,0 +1,26 @@
+                                                                           Info Application
+                                                                         --------------------
+
+1. Many times we need some infromation according to any topic, like in a life of student we need many informations according to our studies.
+   We use google, microsoft edge, chrome etc... Those all are online apps. At many place if there is no internet then we can't get information.
+   For that we need an offline information app. Sounds good right!
+
+2. In this app, we can get any information without internet. And this app dosen't only provide information but also has an AI.
+
+3. Those who love to travel or those who loves adventures they need navigation/location. This app also provides location.
+
+4. This app also has an voice assistant because those who don't know to write/chat they can talk and get info.
+
+5. This app should work in any type of device like in IO'S, Android, Windows, PC, Nokia.
+
+6. For these conditions we need an app which has a database to collect the data and should compartible in any type of device.
+
+7. The AI will work as an assistant, it'll guide you for providing locations.
+
+8. If you are driving and you need information but can't get your phone, then if you call your AI name and ask what you want it'll tell you.
+   If you're going in a wrong direction then it'll help you.
+
+9. This app will work as a map, friend and will provide you data.
+
+10.This app is really good, and will help you. The main thing that it has is it is offline.
+
